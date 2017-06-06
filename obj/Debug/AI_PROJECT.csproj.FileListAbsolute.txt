@@ -1,0 +1,17 @@
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\bin\Debug\AI_PROJECT.exe.config
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\bin\Debug\AI_PROJECT.exe
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\bin\Debug\AI_PROJECT.pdb
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\country.g.cs
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\MainWindow.g.cs
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\App.g.cs
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT_MarkupCompile.cache
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT_MarkupCompile.lref
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\country.baml
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\MainWindow.baml
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.g.resources
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.Properties.Resources.resources
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.csproj.GenerateResource.Cache
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.exe
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\AI_PROJECT.pdb
+C:\Users\SALEM\Desktop\AI_PROJECT\AI_PROJECT\obj\Debug\GeneratedInternalTypeHelper.g.cs
